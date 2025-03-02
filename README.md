@@ -53,7 +53,7 @@ The application follows a modular design:
 
 ## GPT Integration Details
 - **Prompt Engineering**: The system prompt ensures structured responses with headings: "Intuition" "Approach Discussion" "Example" and "Time & Space Complexity".
-- **Chat Context Management**: The chat history retains user queries and AI responses for contextual continuity.
+- **Chat Context Management**: The chat history retains user queries using `st.session_state` and AI responses for contextual continuity.
 - **Response Formatting**: The AI's response is processed and displayed in a readable format within the Streamlit UI.
 
 # Demo Video
