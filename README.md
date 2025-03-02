@@ -45,14 +45,14 @@ The application follows a modular design:
    - Provides problem-solving approaches, complexity analysis, and example explanations.
 
 ## Usage Guidelines
-1. Enter a LeetCode problem URL.
+1. Submit the URL of a LeetCode problem.
 2. Click "Fetch Problem Details" to retrieve problem information.
-3. The AI assistant will provide structured guidance.
-4. Users can ask follow-up questions in the chat interface.
-5. Responses are formatted with bold headings for clarity.
+3. The AI assistant will provide structured guidance containing "Intuition" and "Approach Discussion".
+4. Type out their doubts or ask follow-up questions in the chat interface regarding the problem.
+5. View responses from the GPT-based teaching assistant.
 
 ## GPT Integration Details
-- **Prompt Engineering**: The system prompt ensures structured responses with headings: "Intuition," "Approach Discussion," "Example," and "Time & Space Complexity."
+- **Prompt Engineering**: The system prompt ensures structured responses with headings: "Intuition" "Approach Discussion" "Example" and "Time & Space Complexity".
 - **Chat Context Management**: The chat history retains user queries and AI responses for contextual continuity.
 - **Response Formatting**: The AI's response is processed and displayed in a readable format within the Streamlit UI.
 
