@@ -59,6 +59,11 @@ The application follows a modular design:
 # Demo Video
 
 [Watch the full demo video](assets/demo.mp4)
+### Home Page
+![Home Page](assets/1.png)
+
+### Problem Fetching
+![Problem Fetching](assets/2.png)
 
 
 
