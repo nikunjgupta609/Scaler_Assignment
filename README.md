@@ -56,8 +56,11 @@ The application follows a modular design:
 - **Chat Context Management**: The chat history retains user queries and AI responses for contextual continuity.
 - **Response Formatting**: The AI's response is processed and displayed in a readable format within the Streamlit UI.
 
-# Demo Video
-[Watch the demo](assets/demo.mp4)
+## Demo Video
+![Demo Video](assets/demo.gif)
+
+[Watch the full demo video](assets/demo.mp4)
+
 
 
 
