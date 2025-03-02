@@ -1,7 +1,7 @@
 # LeetCode GPT Assistant
 
 ## Overview
-LeetCode GPT Assistant is a Streamlit-based application that fetches LeetCode problem details using the LeetCode API and provides *intuitive explanations*, structured problem-solving approaches, guiding hints, and complexity analysis AI-guided assistance using OpenAI's API. 
+LeetCode GPT Assistant is a Streamlit-based application that fetches LeetCode problem details using the LeetCode API and provides **intuitive explanations**, **structured problem-solving approaches**, **guiding hints**, and **complexity analysis** AI-guided assistance using OpenAI's API. 
 
 ## Setup Instructions
 ### Prerequisites
