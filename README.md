@@ -58,8 +58,8 @@ The application follows a modular design:
 
 # Demo Video
 
-<video src="assets/demo.mp4" controls="controls" style="max-width: 730px;">
-</video>
+[Watch the full demo video](assets/demo.mp4)
+
 
 
 
