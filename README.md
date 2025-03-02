@@ -30,7 +30,7 @@ Ensure you have the following installed:
 ### Running the Application
 Run the Streamlit application:
 ```bash
-streamlit run app.py
+streamlit run main.py
 ```
 
 ## Architecture
